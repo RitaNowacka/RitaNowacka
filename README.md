@@ -27,21 +27,21 @@ I am familiar with various tools and technologies used in testing, such as JIRA,
 I am detail-oriented and determined to grow in the field of QA. I thrive in a team environment and value the opinion of others. I approach daily challenges with curiosity, viewing them as opportunities. I hope we can discuss further during the HR interview.
 
 ## Completed Courses:
-Manual Tester Course at CodersLab - August 2023
+- Manual Tester Course at CodersLab - August 2023
 
 ## Ongoing Courses:
-Automated Tester Course at CodersLab - Until November 2023
+- Automated Tester Course at CodersLab - Until November 2023
 
 ## Basic Knowledge:
-SQL
-JIRA
-Postman
-DevTools
-SOAP UI
-JavaScript and CSS
+- SQL
+- JIRA
+- Postman
+- DevTools
+- SOAP UI
+- JavaScript and CSS
 
 ## Technical Skills:
-Software Testing
-Test case and scenario creation
-Bug reporting
-MS Office
+- Software Testing
+- Test case and scenario creation
+- Bug reporting
+- MS Office
