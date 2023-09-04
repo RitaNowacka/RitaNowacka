@@ -43,3 +43,4 @@ I am detail-oriented and determined to grow in the field of QA. I thrive in a te
 - Test case and scenario creation
 - Bug reporting
 - MS Office
+
