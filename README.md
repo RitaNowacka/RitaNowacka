@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/rita-nowacka/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13930&format=png" alt="linkedin.com/in/rita-nowacka/" height="30" width="40" /></a>
+<a href="linkedin.com/in/rita-nowacka/" target="blank"><img align="center" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" alt="linkedin.com/in/rita-nowacka/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
