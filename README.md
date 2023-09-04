@@ -19,3 +19,29 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817" alt="CSS" width="40" height="40"/> </a> 
 </p>
 
+## About me
+My name is Rita Nowacka, and I am junior manual tester, eager to join a creative team. I am interested in an internship where I can apply my knowledge and work in an agile team and, above all, continue to learn.
+
+I am familiar with various tools and technologies used in testing, such as JIRA, Postman, MySQL Workbench, SOAP UI, Chrome DevTools, as well as the fundamentals of JavaScript and CSS. I understand the importance of testing, can differentiate between functional and non-functional tests, know how to automate tests using Postman, understand regression testing, and know what to do when a developer says, "It works on my machine."
+
+I am detail-oriented and determined to grow in the field of QA. I thrive in a team environment and value the opinion of others. I approach daily challenges with curiosity, viewing them as opportunities. I hope we can discuss further during the HR interview.
+
+## Completed Courses:
+Manual Tester Course at CodersLab - August 2023
+
+## Ongoing Courses:
+Automated Tester Course at CodersLab - Until November 2023
+
+## Basic Knowledge:
+SQL
+JIRA
+Postman
+DevTools
+SOAP UI
+JavaScript and CSS
+
+## Technical Skills:
+Software Testing
+Test case and scenario creation
+Bug reporting
+MS Office
