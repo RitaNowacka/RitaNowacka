@@ -1,13 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rita</h1>
+<h3 align="center">A passionate Manual Tester</h3>
 
 - 🔭 I’m currently working on pursuing ISTQB FL certificate
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: rita.nowacka@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
-
-<h1 align="center">Hi 👋, I'm Rita</h1>
-<h3 align="center">A passionate Manual Tester</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
