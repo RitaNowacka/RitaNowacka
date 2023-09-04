@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rita</h1>
 <h3 align="center">A passionate Manual Tester</h3>
 
-- 📫 How to reach me: rita.nowacka@gmail.com
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rita-nowacka/" target="blank"><img align="center" src="https://www.svgrepo.com/show/81143/linkedin.svg" alt="LinkedIn" heigh="30px" width="40px"/></a>
-<a href="mailto:rita.nowacka@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/7/7e/20221017173614%21Gmail_icon_%282020%29.svg/120px-Gmail_icon_%282020%29.svg.png" alt="mail" heigh="30px" width="40px"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
