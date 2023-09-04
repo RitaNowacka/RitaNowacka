@@ -6,6 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rita-nowacka/" target="blank"><img align="center" src="https://www.svgrepo.com/show/81143/linkedin.svg" alt="LinkedIn" heigh="30px" width="40px"/></a>
+<a href="https://mail.google.com/mail/?view=cm&source=mailto&to=[rita.nowacka@gmail.com]" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="rita.nowacka@gmail.com" heigh="30px" width="40px"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
